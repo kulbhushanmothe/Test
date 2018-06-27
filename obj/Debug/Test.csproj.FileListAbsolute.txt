@@ -1,0 +1,7 @@
+D:\Projects\Test\Test\bin\Debug\Test.exe.config
+D:\Projects\Test\Test\bin\Debug\Test.exe
+D:\Projects\Test\Test\bin\Debug\Test.pdb
+D:\Projects\Test\Test\obj\Debug\Test.exe
+D:\Projects\Test\Test\obj\Debug\Test.pdb
+D:\Projects\Test\Test\bin\Debug\Test.exe.CodeAnalysisLog.xml
+D:\Projects\Test\Test\bin\Debug\Test.exe.lastcodeanalysissucceeded

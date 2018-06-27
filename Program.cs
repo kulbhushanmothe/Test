@@ -64,7 +64,7 @@ namespace Test
                 }
                 else if (iSearchIteam == iArrayElements[i])
                 {
-                    index = i;
+                    index = i+1;
                 }
             }
             Console.WriteLine("{0}", index);

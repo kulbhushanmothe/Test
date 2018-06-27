@@ -11,6 +11,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Please enter details N/m and numbers.");
             string sInputLine1 = Console.ReadLine();
             string sInputLine2 = Console.ReadLine();
 
